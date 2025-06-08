@@ -2871,7 +2871,7 @@ See Buffer Font Features
         // to the current working directory. We recommend overriding this
         // in your project's settings, rather than globally.
         "directories": [".env", "env", ".venv", "venv"],
-        // Can also be `csh`, `fish`, and `nushell`
+        // Can also be `csh`, `fish`, `xonsh`, and `nushell`
         "activate_script": "default"
       }
     }

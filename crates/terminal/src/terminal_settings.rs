@@ -124,6 +124,7 @@ pub enum ActivateScript {
     Default,
     Csh,
     Fish,
+    Xonsh,
     Nushell,
     PowerShell,
 }
